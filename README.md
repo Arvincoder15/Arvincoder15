@@ -16,4 +16,4 @@ I'm a CS student with an interest in data analysis, machine learning, and full-s
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elrich-Chen&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-LinkedIn](https://www.linkedin.com/in/arvin-askari) or [Email](mailto:arvin.askari@queensu.ca)
+[LinkedIn](https://www.linkedin.com/in/arvin-askari) or [Email](mailto:arvin.askari@queensu.ca)
