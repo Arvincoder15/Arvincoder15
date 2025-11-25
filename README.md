@@ -16,4 +16,5 @@ I'm a CS student with an interest in data analysis, machine learning, and full-s
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arvincoder15&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/arvin-askari) or [Email](mailto:arvin.askari@queensu.ca)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/arvin-askari)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arvin.askari@queensu.ca)
