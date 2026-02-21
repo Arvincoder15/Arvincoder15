@@ -33,9 +33,3 @@ I build data-driven systems that turn complex information into practical tools â
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)
-
----
-
-## ðŸ’¡ Philosophy
-
-> Build useful things. Ship fast. Keep improving.
