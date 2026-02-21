@@ -1,4 +1,4 @@
-## Hi there, I'm Arvin! 👋
+## Hi there, I'm Arvin! 👋🏼
 
 I'm a 2nd-year CS student focused on applied AI, analytics, and building systems that solve real-world problems. 
 
