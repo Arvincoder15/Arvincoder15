@@ -1,31 +1,28 @@
-## Hi, I'm Arvin 👋
+## Hi there, I'm Arvin! 👋
 
-I'm a 2nd-year Computer Science student at Queen’s University, specializing in Software Design, with a Certificate in Business.
+I'm a 2nd-year CS student focused on applied AI, analytics, and building systems that solve real-world problems. Welcome to my GitHub!
 
-I build data-driven systems that turn complex information into practical tools, across AI, analytics, healthcare, transit intelligence, and full-stack applications.
+## 👨‍💻 Summary of Qualifications
+
+- 🎓 **Education:** Bachelor of Computing (Honours) at **Queen’s University** + Certificate in Business (Smith School of Business).
+- 💼 **Industry Experience:** Service & Operational Planning Intern at **Metrolinx**.
+- 🤖 **AI & ML Systems:** Contributor to RAG-powered healthcare tools (PostOpCare).
+- 📊 **Data Analytics:** Translated 1,000+ sports performance metrics into actionable insights using Python and statistical modelling.
+- ⚙️ **Full-Stack Development:** Built and deployed modern applications using React, Next.js, Flask, and NLP pipelines.
 
 ---
 
-## 🔧 Technologies & Tools
+## 🚀 What I’m Currently Exploring
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=flat-square)
+- Multimodal AI systems & LLM applications  
+- Financial & risk analytics  
+- Scalable backend architecture  
+- Automation and process optimization  
 
-### Frameworks
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
+---
 
-### Data & AI
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat-square)
-![LLMs](https://img.shields.io/badge/-LLMs-8A2BE2?style=flat-square)
+## 📫 Connect With Me
 
-### Tools
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/arvin-askari)
+[![Website](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white&style=flat-square)](https://arvincoder15.github.io/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:arvin.askari@queensu.ca)
