@@ -1,8 +1,8 @@
 ## Hi there, I'm Arvin! 👋
 
-I'm a 2nd-year CS student focused on applied AI, analytics, and building systems that solve real-world problems. Welcome to my GitHub!
+I'm a 2nd-year CS student focused on applied AI, analytics, and building systems that solve real-world problems. 
 
-## 👨‍💻 Summary of Qualifications
+## 🧑🏻‍💻 Summary of Qualifications
 
 - 🎓 **Education:** Bachelor of Computing (Honours) at **Queen’s University** + Certificate in Business (Smith School of Business).
 - 💼 **Industry Experience:** Service & Operational Planning Intern at **Metrolinx**.
