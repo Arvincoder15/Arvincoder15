@@ -2,7 +2,7 @@
 
 I'm a 2nd-year Computer Science student at Queen’s University, specializing in Software Design, with a Certificate in Business.
 
-I build data-driven systems that turn complex information into practical tools — across AI, analytics, healthcare, transit intelligence, and full-stack applications.
+I build data-driven systems that turn complex information into practical tools, across AI, analytics, healthcare, transit intelligence, and full-stack applications.
 
 ---
 
