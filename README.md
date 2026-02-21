@@ -10,21 +10,6 @@ I build data-driven systems that turn complex information into practical tools �
 
 ---
 
-## 🚀 What I’m Building
-
-- 🤖 AI-powered systems (RAG, NLP, LLM workflows)
-- 📊 Analytics platforms translating data into decisions
-- 🌐 Full-stack applications (React / Next.js / Flask)
-- ⚙️ Automation tools that reduce manual effort
-
-Currently exploring:
-- Multimodal AI systems
-- Financial & risk analytics
-- Scalable backend architecture
-- Real-time data pipelines
-
----
-
 ## 🔧 Technologies & Tools
 
 ### Languages
