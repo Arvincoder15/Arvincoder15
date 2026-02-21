@@ -7,7 +7,7 @@ I'm a 2nd-year CS student focused on applied AI, analytics, and building systems
 - 🎓 **Education:** Bachelor of Computing (Honours) at **Queen’s University** + Certificate in Business (Smith School of Business).
 - 💼 **Industry Experience:** Service & Operational Planning Intern at **Metrolinx**.
 - 🤖 **AI & ML Systems:** Contributor to RAG-powered healthcare tools (PostOpCare).
-- 📊 **Data Analytics:** Translated 1,000+ sports performance metrics into actionable insights using Python and statistical modelling.
+- 📊 **Data Analytics:** Translated sports performance metrics into actionable insights using Python and statistical modelling.
 - ⚙️ **Full-Stack Development:** Built and deployed modern applications using React, Next.js, Flask, and NLP pipelines.
 
 ---
