@@ -24,5 +24,5 @@ I'm an incoming 3rd-year CS student focused on applied AI, analytics, and buildi
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/arvin-askari)
-[![Website](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white&style=flat-square)](https://arvincoder15.github.io/)
+[![Website](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white&style=flat-square)](https://arvinaskari.me/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:arvin.askari@queensu.ca)
