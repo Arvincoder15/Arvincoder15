@@ -12,15 +12,6 @@ I'm an incoming 3rd-year CS student focused on applied AI, analytics, and buildi
 
 ---
 
-## 🚀 What I’m Currently Exploring
-
-- Multimodal AI systems & LLM applications  
-- Financial & risk analytics  
-- Scalable backend architecture  
-- Automation and process optimization  
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/arvin-askari)
