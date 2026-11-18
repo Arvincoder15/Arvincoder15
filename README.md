@@ -5,7 +5,7 @@ I am a 3rd-year CS student focused on applied AI, analytics, and building system
 ## 🧑🏻‍💻 Summary of Qualifications
 
 - 🎓 **Education:** Bachelor of Computing (Honours) at **Queen’s University** + Certificate in Business (Smith School of Business).
-- 💼 **Industry Experience:** Incoming @ **AMD ** | Software Developer Intern @ **CIBC** | Service & Operational Planning Intern at **Metrolinx**.
+- 💼 **Industry Experience:** Incoming Technical Business Operations Analyst Intern @ **AMD** | Prev SDE Intern @ **CIBC** | Prev Service OPS Intern @ **Metrolinx**.
 - 🤖 **AI & ML Systems:** Contributor to RAG-powered healthcare tools (PostOpCare).
 - 📊 **Data Analytics:** Translated sports performance metrics into actionable insights using Python and statistical modelling.
 - ⚙️ **Full-Stack Development:** Built and deployed modern applications using React, Next.js, Flask, and NLP pipelines.
